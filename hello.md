@@ -1,12 +1,12 @@
 자기소개
 -------------------------
-이름 : 김윤진
+이름 : 최경진
 
-팀 : 생산성효율화
+팀 : 티켓서비스운영팀
 
-Github ID : kimyunjin
+Github ID : soulloverschoi
 
-E-mail : woobe11@wemakeprice.com
+E-mail : soullovers@wemakeprice.com
 
 
 
